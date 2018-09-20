@@ -24,13 +24,13 @@ pygmentsCodefences       = true
     primaryImage         = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "/blog/posts"
     text = "posts"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "/blog/gallery"
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "/blog/about"
     text = "who is Kien Nguyen?"
