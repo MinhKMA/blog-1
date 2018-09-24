@@ -12,7 +12,7 @@ pygmentsCodefences       = true
     homepage             = "main"                        # What to call the home page link
     galleryFolder        = "images/"                     # Where you've put your images, after "/content/gallery/" (eg. "images/")
     clickablePhotos      = true                          # Allow links to the full size images
-    smallPreviewImages   = true                          # Show thumbnails (small images) instead of using full size images on the gallery page
+    smallPreviewImages   = false                         # Show thumbnails (small images) instead of using full size images on the gallery page
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # Folder for image thumbnails (small versions) after "/content/gallery/[galleryFolder]" (eg. "small/")
                                                          # For each image the small version has to have the same filename as the big version.
