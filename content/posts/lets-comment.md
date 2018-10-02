@@ -2,6 +2,7 @@
 title: "Lets Comment"
 date: 2018-10-02T09:46:11+07:00
 showDate: true
+comment: true
 tags: ["blog","tech"]
 ---
 
