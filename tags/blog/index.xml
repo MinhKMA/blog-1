@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello World!</title>
-    <link>https://ntk148v.github.io/blog/</link>
-    <description>Recent content on Hello World!</description>
+    <title>Blog on Hello World!</title>
+    <link>https://ntk148v.github.io/blog/tags/blog/</link>
+    <description>Recent content in Blog on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Oct 2018 09:46:11 +0700</lastBuildDate>
     
-	<atom:link href="https://ntk148v.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ntk148v.github.io/blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@ That&amp;rsquo;s why I choose a Disqus alternative - Utterances. Utterances is a
       <description>Hôm nay, 26&amp;frasl;09 là sinh nhật tôi, sinh nhật lần thứ 25.
 Tuổi 25, cái tuổi mà bảo trẻ con cũng không phải, mà nói trưởng thành cũng chưa hẳn, là cái độ tuổi đứng giữa ngã ba đường, có quá nhiều lối rẽ.
 Tuổi 25, bắt đầu phải sống có trách nhiệm hơn vì sự lựa chọn bản thân ảnh hưởng đến những người xung quanh. Không còn có thể vứt bỏ tất cả, sống vì đam mê, theo đuổi đam mê một cách toàn tâm toàn ý.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ntk148v.github.io/blog/about/</link>
-      <pubDate>Thu, 20 Sep 2018 11:22:22 +0700</pubDate>
-      
-      <guid>https://ntk148v.github.io/blog/about/</guid>
-      <description>print(&amp;#34;Hello World! I&amp;#39;m Kien Nguyen-Tuan&amp;#34;) </description>
     </item>
     
   </channel>

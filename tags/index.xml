@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 09:46:11 +0700</lastBuildDate>
     
 	<atom:link href="https://ntk148v.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://ntk148v.github.io/blog/tags/blog/</link>
+      <pubDate>Tue, 02 Oct 2018 09:46:11 +0700</pubDate>
+      
+      <guid>https://ntk148v.github.io/blog/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://ntk148v.github.io/blog/tags/story/</link>
+      <pubDate>Wed, 26 Sep 2018 18:20:16 +0700</pubDate>
+      
+      <guid>https://ntk148v.github.io/blog/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://ntk148v.github.io/blog/tags/tech/</link>
+      <pubDate>Tue, 02 Oct 2018 09:46:11 +0700</pubDate>
+      
+      <guid>https://ntk148v.github.io/blog/tags/tech/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
