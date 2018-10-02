@@ -1,6 +1,8 @@
 ---
 title: "Viết cho tuổi 25"
 date: 2018-09-26T18:20:16+07:00
+showDate: true
+tags: ["blog","story"]
 ---
 
 Hôm nay, 26/09 là sinh nhật tôi, sinh nhật lần thứ 25.
